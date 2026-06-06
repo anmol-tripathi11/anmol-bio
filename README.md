@@ -13,7 +13,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmol-tripathi11)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://anmol-tripathi-portfolio.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmoltripathi8329@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 
 <br/>
 
@@ -33,7 +32,6 @@ Name     : Anmol Tripathi
 Role     : Aspiring Data Analyst | BI Developer
 Location : Gajraula, Uttar Pradesh, India 📍
 Email    : anmoltripathi8329@gmail.com
-Phone    : +91 6396253508
 Status   : 🟢 Open to Work — Actively Seeking Roles
 ```
 
@@ -215,9 +213,8 @@ If you think I'd be a great fit for your team — let's talk! 🚀
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anmol-tripathi11)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmoltripathi8329@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmoltripathi8329@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://anmol-tripathi-portfolio.vercel.app/)
-[![Phone](https://img.shields.io/badge/Call-+91_6396253508-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916396253508)
 
 </div>
 
