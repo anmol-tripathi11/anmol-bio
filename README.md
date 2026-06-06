@@ -152,7 +152,7 @@ Status   : 🟢 Open to Work — Actively Seeking Roles
     Specialization in collaboration with TCS iON
     2022 – 2026
 
-    📚 Key Areas: RDBMS · SQL Optimization · Data Analysis ·
+📚 Key Areas: RDBMS · SQL Optimization · Data Analysis ·
        Dashboard Design · Statistics · Software Engineering
 ```
 
