@@ -17,7 +17,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anmol-tripathi11&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/anmol-tripathi11?style=for-the-badge&color=orange)](https://github.com/anmol-tripathi11)
 
 </div>
 
