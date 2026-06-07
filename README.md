@@ -41,7 +41,7 @@ Status   : 🟢 Open to Work — Actively Seeking Roles
 
 - 🔍 Focused on **high-performance SQL queries**, clean data modeling, and **Power BI / Excel dashboards** that show KPIs at a glance
 - 🏆 Completed **125-hour remote ML Internship** with TCS iON
-- 📊 Built **6 portfolio projects** across SQL, Power BI, Excel & Python
+- 📊 Built **7 portfolio projects** across SQL, Power BI, Excel & Python
 - 🎯 Seeking roles in **Data Analytics**, **Business Intelligence**, or **Database Reporting**
 
 <br clear="right"/>
@@ -55,6 +55,7 @@ Status   : 🟢 Open to Work — Actively Seeking Roles
 ### 🗄️ Database & SQL
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Relational DB](https://img.shields.io/badge/Relational_DB_Modeling-005C84?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### 📊 Business Intelligence & Analytics
@@ -108,6 +109,7 @@ Status   : 🟢 Open to Work — Actively Seeking Roles
 |:---|:---|:---:|
 | **🍽️ Zomato Restaurant Analysis Dashboard** | Power BI · DAX · Power Query · Data Cleaning | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/anmol-tripathi11/Zomato-Restaurant-Analysis) |
 | **🛒 E-Commerce Sales Analysis Dashboard** | Advanced Excel · Pivot Tables · VBA Macros · KPI | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/anmol-tripathi11/E-commerce-Sales-Analysis) |
+| **🎬 Netflix Content Analysis** | SQL · PostgreSQL · pgAdmin · Data Cleaning · EDA | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/anmol-tripathi11/Netflix-Content-Analysis) |
 | **✏️ Grammar Checker & Error Detection Tool** | Python · NLP · ML Classifier · LanguageTool | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/anmol-tripathi11/Grammar-Checker-Tool) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)](https://huggingface.co/spaces/anmol8329/Grammar-Checker-Tool) |
 | **🍎 Apple Leaf Disease Detection System** | Python · ML · Image Classification · HTML5 UI | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/anmol-tripathi11/Apple-Leaf-Disease-Detection-System) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)](https://huggingface.co/spaces/anmol8329/Apple-Leaf-Disease-Detection-System) |
 | **📚 Attendance Tracking & Analytics Platform** | Database Modeling · REST API · HTML/CSS/JS | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/anmol-tripathi11/Attendance-Management-System) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)](https://huggingface.co/spaces/anmol8329/Attendance-Management-System) |
@@ -126,6 +128,11 @@ Status   : 🟢 Open to Work — Actively Seeking Roles
 > 📌 Analyzed **38,945 total sales** across 8 cities using Pivot Tables, Charts & VBA Macros  
 > 📌 Tracked **55.2% average target achievement rate** across product categories  
 > 📌 Automated KPI reporting — Target Hit % & Away From Target % metrics for business decisions
+
+### 🎬 Netflix Content Analysis — Highlight
+> 📌 Designed a relational database schema and analyzed **8,800+ Netflix titles** using SQL & PostgreSQL  
+> 📌 Performed end-to-end data cleaning — handled NULLs across 6 columns using `UPDATE` and `DELETE` strategies  
+> 📌 Solved **15 real-world business problems** using Window Functions, CTEs, String Aggregation, Date Functions & Pattern Matching
 
 ---
 
@@ -166,7 +173,8 @@ Status   : 🟢 Open to Work — Actively Seeking Roles
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
 │   📊  50,000+ rows cleaned & analyzed in Power BI              │
-│   🎯  6 end-to-end data & analytics portfolio projects         │
+│   🗄️  8,800+ Netflix titles analyzed using SQL & PostgreSQL    │
+│   🎯  7 end-to-end data & analytics portfolio projects         │
 │   🏆  125-hr TCS iON ML Internship completed                   │
 │   📜  4 verified industry certifications                       │
 │   🔍  Strong focus on KPIs, EDA & BI Reporting                │
