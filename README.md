@@ -41,7 +41,7 @@ Status   : 🟢 Open to Work — Actively Seeking Roles
 
 - 🔍 Focused on **high-performance SQL queries**, clean data modeling, and **Power BI / Excel dashboards** that show KPIs at a glance
 - 🏆 Completed **125-hour remote ML Internship** with TCS iON
-- 📊 Built **7 portfolio projects** across SQL, Power BI, Excel & Python
+- 📊 Built **8 portfolio projects** across SQL, Power BI, Excel & Python
 - 🎯 Seeking roles in **Data Analytics**, **Business Intelligence**, or **Database Reporting**
 
 <br clear="right"/>
