@@ -107,6 +107,7 @@ Status   : 🟢 Open to Work — Actively Seeking Roles
 
 | 🏷️ Project | 🛠️ Tech Stack | 🔗 Links |
 |:---|:---|:---:|
+| **🍽️ Amazon Sales Analysis Dashboard** | Power BI · DAX · Power Query · Data Cleaning | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/anmol-tripathi11/Amazon-Sales-Analysis) |
 | **🍽️ Zomato Restaurant Analysis Dashboard** | Power BI · DAX · Power Query · Data Cleaning | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/anmol-tripathi11/Zomato-Restaurant-Analysis) |
 | **🛒 E-Commerce Sales Analysis Dashboard** | Advanced Excel · Pivot Tables · VBA Macros · KPI | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/anmol-tripathi11/E-commerce-Sales-Analysis) |
 | **🎬 Netflix Content Analysis** | SQL · PostgreSQL · pgAdmin · Data Cleaning · EDA | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/anmol-tripathi11/Netflix-Content-Analysis) |
@@ -172,9 +173,9 @@ Status   : 🟢 Open to Work — Actively Seeking Roles
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
-│   📊  50,000+ rows cleaned & analyzed in Power BI              │
+│   📊  1,60,000+ rows cleaned & analyzed in Power BI              │
 │   🗄️  8,800+ Netflix titles analyzed using SQL & PostgreSQL    │
-│   🎯  7 end-to-end data & analytics portfolio projects         │
+│   🎯  8 end-to-end data & analytics portfolio projects         │
 │   🏆  125-hr TCS iON ML Internship completed                   │
 │   📜  4 verified industry certifications                       │
 │   🔍  Strong focus on KPIs, EDA & BI Reporting                │
