@@ -122,7 +122,7 @@ Status   : 🟢 Open to Work — Actively Seeking Roles
 
 ### 📦 Amazon Sales Analysis Dashboard — Highlight
 > 📌 Cleaned and analyzed **1,00,000+ sales records** across 15 attributes using Power Query & DAX in Power BI  
-> 📌 Built interactive dashboards with dynamic filters for category, country, order status, year
+> 📌 Built interactive dashboards with dynamic filters for category, country, order status, year    
 > 📌 Delivered KPIs: **Total Revenue $92M · Total Orders 100k · Avg Order Value $918.3 · 300K Total Units Sold**
 
 ### 🍽️ Zomato Restaurant Analysis Dashboard — Highlight
