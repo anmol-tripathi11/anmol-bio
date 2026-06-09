@@ -107,7 +107,7 @@ Status   : 🟢 Open to Work — Actively Seeking Roles
 
 | 🏷️ Project | 🛠️ Tech Stack | 🔗 Links |
 |:---|:---|:---:|
-| **🍽️ Amazon Sales Analysis Dashboard** | Power BI · DAX · Power Query · Data Cleaning | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/anmol-tripathi11/Amazon-Sales-Analysis) |
+| **📦 Amazon Sales Analysis Dashboard** | Power BI · DAX · Power Query · Data Cleaning | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/anmol-tripathi11/Amazon-Sales-Analysis) |
 | **🍽️ Zomato Restaurant Analysis Dashboard** | Power BI · DAX · Power Query · Data Cleaning | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/anmol-tripathi11/Zomato-Restaurant-Analysis) |
 | **🛒 E-Commerce Sales Analysis Dashboard** | Advanced Excel · Pivot Tables · VBA Macros · KPI | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/anmol-tripathi11/E-commerce-Sales-Analysis) |
 | **🎬 Netflix Content Analysis** | SQL · PostgreSQL · pgAdmin · Data Cleaning · EDA | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/anmol-tripathi11/Netflix-Content-Analysis) |
@@ -119,6 +119,11 @@ Status   : 🟢 Open to Work — Actively Seeking Roles
 </div>
 
 <br/>
+
+### 🍽️ Zomato Restaurant Analysis Dashboard — Highlight
+> 📌 Cleaned and analyzed **1,00,000+ sales records** across 15 attributes using Power Query & DAX in Power BI  
+> 📌 Built interactive dashboards with dynamic filters for category, country, order status, year
+> 📌 Delivered KPIs: **Total Revenue $92M · Total Orders 100k · Avg Order Value $918.3 · 300K Total Units Sold**
 
 ### 🍽️ Zomato Restaurant Analysis Dashboard — Highlight
 > 📌 Cleaned and analyzed **50,000+ restaurant records** across 17 attributes using Power Query & DAX in Power BI  
