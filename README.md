@@ -87,7 +87,7 @@ Status   : 🟢 Open to Work — Actively Seeking Roles
 
 <div align="left">
 
-### 🏢 Machine Learning Intern (Remote) — TCS iON
+### 🏢 Remote Intern (RIO-125) — TCS iON
 **📅 Dec 2024 – Mar 2025**
 
 > *Project: Automate Detection and Recognition of Grammatical Errors*
